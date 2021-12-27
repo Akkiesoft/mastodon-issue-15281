@@ -1,0 +1,1 @@
+[test for https://github.com/mastodon/mastodon/issues/15281](https://github.com/mastodon/mastodon/issues/15281)
